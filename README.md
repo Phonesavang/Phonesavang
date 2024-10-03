@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 web devrloper
 -------------
 
-Studying at the Faculty of Engineering National University of Laos.
 
 * 🌍  I'm based in Vientiane, Laos
 
